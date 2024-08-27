@@ -1,0 +1,210 @@
+{
+  "heading": "Synonyms",
+  "topics": [
+    {
+      "heading": "Synonyms",
+      "questions": [{
+        "questionNo": 1,
+        "question": "Which word means the same as 'tiny'?",
+        "options": [
+            "Huge",
+            "Teeny",
+            "Big"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 2,
+        "question": "Fill in the blank: Brave is to _____ as funny is to silly.",
+        "options": [
+            "Scared",
+            "Weak",
+            "Courageous"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 3,
+        "question": "What's another word for 'tired'?",
+        "options": [
+            "Sleepy",
+            "Happy",
+            "Fast"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 4,
+        "question": "'Loud' means the same as:",
+        "options": [
+            "Quiet",
+            "Noisy",
+            "Soft"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 5,
+        "question": "Fill in the blank: Smart is to _____ as nice is to kind.",
+        "options": [
+            "Dumb",
+            "Clever",
+            "Funny"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 6,
+        "question": "Which word means the same as 'cold'?",
+        "options": [
+            "Hot",
+            "Warm",
+            "Chilly"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 7,
+        "question": "'Wet' is the same as:",
+        "options": [
+            "Dry",
+            "Damp",
+            "Warm"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 8,
+        "question": "Fill in the blank: Quiet is to _____ as big is to large.",
+        "options": [
+            "Loud",
+            "Noisy",
+            "Silent"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 9,
+        "question": "What's another word for 'happy'?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Glad"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 10,
+        "question": "'Fast' means the same as:",
+        "options": [
+            "Slow",
+            "Quick",
+            "Tired"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 11,
+        "question": "Fill in the blank: Pretty is to _____ as little is to small.",
+        "options": [
+            "Ugly",
+            "Beautiful",
+            "Big"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 12,
+        "question": "Which word does not mean the same as 'brave'?",
+        "options": [
+            "Fearless",
+            "Courageous",
+            "Funny"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 13,
+        "question": "'Funny' is the same as:",
+        "options": [
+            "Serious",
+            "Sad",
+            "Silly"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 14,
+        "question": "Fill in the blank: Nice is to _____ as smart is to clever.",
+        "options": [
+            "Mean",
+            "Kind",
+            "Happy"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 15,
+        "question": "Fill in the blank: Bright is to _____ as dark is to gloomy.",
+        "options": [
+            "Shiny",
+            "Dull",
+            "Cloudy"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 16,
+        "question": "Which word means the same as 'yummy'?",
+        "options": [
+            "Tasty",
+            "Yucky",
+            "Sour"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 17,
+        "question": "'Soft' is the same as:",
+        "options": [
+            "Hard",
+            "Rough",
+            "Fluffy"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 18,
+        "question": "Fill in the blank: Hot is to _____ as cold is to chilly.",
+        "options": [
+            "Cool",
+            "Warm",
+            "Freezing"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 19,
+        "question": "Which word means the same as 'mad'?",
+        "options": [
+            "Happy",
+            "Silly",
+            "Angry"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 20,
+        "question": "Fill in the blank: Scared is to _____ as brave is to courageous.",
+        "options": [
+            "Happy",
+            "Excited",
+            "Afraid"
+        ],
+        "answer": 2
+    }
+    ]
+    
+    }
+  ]
+}
